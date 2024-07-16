@@ -70,5 +70,36 @@ Bereits vor der Gründung von NEBIDT Technologies haben wir langjährige Erfahru
     lang: "en",
     builtin: true,
     createdAt: 1704475530000
+  },
+  {
+    id: "3EQrPcJFOabqaeNWZ3kpJ",
+    avatar: "1f603",
+    name: "test",
+    context: [
+      {
+        id: "OmL8kiYExKYFGJ2hbBO5_",
+        date: "",
+        role: "system",
+        content: "super dupa"
+      }
+    ],
+    syncGlobalConfig: true,
+    modelConfig: {
+      model: "gpt-3.5-turbo",
+      providerName: "OpenAI",
+      temperature: 0.5,
+      top_p: 1,
+      max_tokens: 4000,
+      presence_penalty: 0,
+      frequency_penalty: 0,
+      sendMemory: true,
+      historyMessageCount: 4,
+      compressMessageLengthThreshold: 1000,
+      enableInjectSystemPrompts: true,
+      template: "{{input}}"
+    },
+    lang: "de",
+    builtin: false,
+    createdAt: 1721160820770
   }
 ];
