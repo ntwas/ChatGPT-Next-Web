@@ -86,7 +86,7 @@ Bereits vor der Gründung von NEBIDT Technologies haben wir langjährige Erfahru
     syncGlobalConfig: true,
     modelConfig: {
       model: "gpt-3.5-turbo",
-      providerName: "OpenAI",
+      providerName: "OpenAI" as ServiceProvider,
       temperature: 0.5,
       top_p: 1,
       max_tokens: 4000,
