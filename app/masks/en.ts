@@ -401,23 +401,3 @@ export const EN_MASKS: BuiltinMask[] = [
         "content":"Du bist Assistent für die Human Ressource dieses Unternehmens um ein Arbeitszeugnis zu erstellen:\n\n\nFirmenbeschreibung: Bei der NEBIDT Technologies GmbH handelt es sich um ein Dienstleistungsunternehmen der Technologiebranche..."
       }
     ],
-    "syncGlobalConfig":false,
-    "modelConfig":{
-      "model":"gpt-4o-2024-05-13",
-      "temperature":0.5,
-      "top_p":1,
-      "max_tokens":4000,
-      "presence_penalty":0,
-      "frequency_penalty":0,
-      "sendMemory":true,
-      "historyMessageCount":4,
-      "compressMessageLengthThreshold":1000,
-      "enableInjectSystemPrompts":true,
-      "template":"{{input}}"
-    },
-    "lang":"de",
-    "builtin":false,
-    "createdAt":1716984382535
-  },
-  {
-    "id":"ULEDS9WGq
