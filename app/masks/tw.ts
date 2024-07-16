@@ -19,5 +19,8 @@ export const TW_MASKS: BuiltinMask[] = [
         date: "",
       },
     ],
+    createdAt: "",  // Beispiel für eine fehlende Eigenschaft
+    lang: "en",     // Beispiel für eine fehlende Eigenschaft
+    builtin: true,  // Beispiel für eine fehlende Eigenschaft
   },
 ];
