@@ -18,3 +18,6 @@ export const TW_MASKS: BuiltinMask[] = [
         content: "Can you draw some pictures for me?",
         date: "",
       },
+    ],
+  },
+];
