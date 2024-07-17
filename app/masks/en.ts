@@ -2,7 +2,6 @@ import { BuiltinMask } from "./typing";
 
 export const EN_MASKS: BuiltinMask[] = [
     {
-        id: "iDTBJqru581DEBWLsusgP",
         avatar: "1f4be",
         name: "Zeichnungsexperte",
         context: [
@@ -89,7 +88,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1719928449439
     },
     {
-        id: "3SVH1A6u9vra5FaeRSNU3",
         avatar: "1f697",
         name: "Experte für Verkehrsrecht",
         context: [
@@ -119,7 +117,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1717421796963
     },
     {
-        id: "Fq7nq2HneH2_tFwxRt7AN",
         avatar: "1f1ec-1f1e7",
         name: "Text Optimierer Engl.",
         context: [
@@ -149,7 +146,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1717407723392
     },
     {
-        id: "dAnK3ds0HOUEq8vyTPGaN",
         avatar: "1f1e9-1f1ea",
         name: "Text Optimierer DE",
         context: [
@@ -179,7 +175,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1717407723392
     },
     {
-        id: "ZhrNts1oi7um51fdj-1kJ",
         avatar: "1f9e4",
         name: "IT Spezialist",
         context: [
@@ -209,7 +204,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716988607913
     },
     {
-        id: "aJgS5py9eBbQPA395vBVL",
         avatar: "1f9e4",
         name: "IT Spezialist Python",
         context: [
@@ -239,7 +233,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716988607913
     },
     {
-        id: "wipJZHYbXRZTGx9Vb1nBU",
         avatar: "1f68e",
         name: "Assistent im Bereich Fahrzeugbatterie",
         context: [
@@ -269,7 +262,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716985058497
     },
     {
-        id: "ULEDS9WGq46lu4eP9A0po",
         avatar: "1f347",
         name: "Übersetzter Engl.",
         context: [
@@ -299,7 +291,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716968298764
     },
     {
-        id: "tyakxfF1_VIy2kapZek-F",
         avatar: "1f604",
         name: "Übersetzter CN",
         context: [
@@ -329,7 +320,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716968298764
     },
     {
-        id: "fmDeIeRoQyxhzif2GZlJq",
         avatar: "1f3c1",
         name: "Übersetzter Alle Sprachen",
         context: [
@@ -359,7 +349,6 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         createdAt: 1716968298764
     },
     {
-        id: "ZAaneACbhM_v9nqP5r7G4",
         avatar: "1f9ed",
         name: "Excel Spezialist",
         context: [
