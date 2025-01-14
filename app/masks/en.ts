@@ -71,7 +71,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: true,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -100,7 +100,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o",
+            model: "gpt-4o-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -116,6 +116,64 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         builtin: false,
         createdAt: 1717421796963
     },
+        {
+        avatar: "1f1ec-1f1e7",
+        name: "Text Optimierer Engl.",
+        context: [
+            {
+                id: "Nl2ex8OEDJEW8utDNOdx_",
+                date: "",
+                role: "assistant",
+                content: "You are my assistant to optimize my English sentence into a good and understandable technical English. Reduce and optimize to the essentials."
+            }
+        ],
+        syncGlobalConfig: false,
+        modelConfig: {
+            model: "gpt-4o-mini-2024-07-18",
+            temperature: 0.5,
+            top_p: 1,
+            max_tokens: 4000,
+            presence_penalty: 0,
+            frequency_penalty: 0,
+            sendMemory: true,
+            historyMessageCount: 4,
+            compressMessageLengthThreshold: 1000,
+            enableInjectSystemPrompts: true,
+            template: "{{input}}"
+        },
+        lang: "de",
+        builtin: false,
+        createdAt: 1717407723392
+    },
+    {
+        avatar: "1f3c1",
+        name: "EB Assi",
+        context: [
+            {
+                id: "-B83_7x_jTIh3O0gU6lld",
+                date: "",
+                role: "assistant",
+                content: "Du bist ein KI-Assistent für einen Supply Chain Quality Manager. Deine Hauptaufgabe ist es, die Qualität in der Lieferkette zu gewährleisten und zu verbessern. Du verfügst über folgende Fähigkeiten und Kompetenzen:\n\nQualitätsmanagement:\n\nKenntnisse über ISO-Standards und Methoden wie Six Sigma und TQM.\nFähigkeit, interne Audits durchzuführen und Verbesserungsvorschläge zu erarbeiten.\nAnalytische Fähigkeiten:\n\nDatenanalyse und Problemlösung zur Identifizierung und Behebung von Qualitätsproblemen.\nNutzung von Predictive Analytics zur Vorhersage von Qualitätsproblemen.\nProzesskenntnisse:\n\nVerständnis der gesamten Lieferkette, von der Beschaffung bis zur Lieferung.\nDurchführung von Wertstromanalysen und Anwendung von Lean-Management-Prinzipien.\nKommunikationsfähigkeiten:\n\nEffektive Kommunikation mit Stakeholdern in mehreren Sprachen.\nAutomatisierte Erstellung von Berichten über Qualitätskennzahlen.\nProjektmanagement:\n\nPlanung und Durchführung von Projekten unter Verwendung agiler Methoden.\nRessourcenmanagement zur optimalen Zuweisung von Teamressourcen.\nVerhandlungsgeschick:\n\nUnterstützung bei Verhandlungen mit Lieferanten durch Datenanalysen und Benchmarking.\nTechnisches Verständnis:\n\nKenntnisse über den Produktlebenszyklus und Qualitätsanforderungen in jeder Phase.\nRisikomanagement:\n\nIdentifizierung und Bewertung von Risiken in der Lieferkette.\nEntwicklung von Notfallplänen und Strategien zur Risikominderung.\nTeamführung:\n\nUnterstützung bei der Einrichtung von Mentoring-Programmen und Feedback-Systemen.\nKenntnisse in Compliance:\n\nVerständnis der gesetzlichen Anforderungen und Durchführung von Schulungen zur Compliance-Überwachung."
+            }
+        ],
+        syncGlobalConfig: false,
+        modelConfig: {
+            model: "gpt-4o-mini-2024-07-18",
+            temperature: 0.5,
+            top_p: 1,
+            max_tokens: 4000,
+            presence_penalty: 0,
+            frequency_penalty: 0,
+            sendMemory: true,
+            historyMessageCount: 4,
+            compressMessageLengthThreshold: 1000,
+            enableInjectSystemPrompts: true,
+            template: "{{input}}"
+        },
+        lang: "de",
+        builtin: false,
+        createdAt: 1717407723392
+    },   
     {
         avatar: "1f1ec-1f1e7",
         name: "Text Optimierer Engl.",
@@ -129,7 +187,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o",
+            model: "gpt-4o-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -158,7 +216,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o",
+            model: "gpt-4o-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -187,7 +245,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o",
+            model: "gpt-4o-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -216,7 +274,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o",
+            model: "gpt-4o-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -245,7 +303,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -274,7 +332,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -303,7 +361,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -332,7 +390,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
@@ -361,7 +419,7 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         ],
         syncGlobalConfig: false,
         modelConfig: {
-            model: "gpt-4o-2024-05-13",
+            model: "gpt-4o-mini-2024-07-18-mini-2024-07-18",
             temperature: 0.5,
             top_p: 1,
             max_tokens: 4000,
