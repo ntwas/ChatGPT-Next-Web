@@ -1,11 +1,20 @@
 {
   "cn": [
-    []
+    [
+      " ",
+      " "
+    ]
   ],
   "tw": [
-    []
+    [
+      " ",
+      " "
+    ]
   ],
   "en": [
-    []
+    [
+      "Optimiere den Text",
+      "Behalte die Struktur und Inhalt. Überprüfe nur die Rechschreibung und Satzstellung. "
+    ]
   ]
 }
