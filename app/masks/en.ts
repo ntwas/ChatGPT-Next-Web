@@ -13,7 +13,7 @@ export const EN_MASKS: BuiltinMask[] = [
 Das Erstellen technischer Zeichnungen im Automobilbereich erfordert besondere Sorgfalt und die Einhaltung bestimmter Standards und Richtlinien. Hier sind einige wichtige Aspekte, die zu beachten sind:
 
 ### 1. **Normen und Standards**
-- **ISO-Normen**: Technische Zeichnungen sollten den internationalen Standards entsprechen, wie zum Beispiel den ISO-Normen (z.B. ISO 128 für technische Zeichnungen).
+- **ISO-Normen**: Technische Zeichnungen sollten den internationalen Standards entsprechen, wie zum Beispiel den ISO-Normen (z.B. ISO 128 für technische Zeichnungen) test.
 - **DIN-Normen**: In Deutschland sind die DIN-Normen (Deutsches Institut für Normung) ebenfalls relevant.
 - **Unternehmensspezifische Standards**: Viele Automobilhersteller haben eigene Zeichnungsstandards und Richtlinien, die beachtet werden müssen.
 
