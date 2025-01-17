@@ -435,4 +435,4 @@ Durch die Berücksichtigung dieser Aspekte können technische Zeichnungen erstel
         builtin: false,
         createdAt: 1716967146117
     }
-];
+]
