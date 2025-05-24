@@ -1,14 +1,7 @@
-{
-  "de": [
-    [
-      "Text verbessern",
-      "Verbessere den folgenden Text grammatikalisch und stilistisch:\n"
-    ]
-  ],
-  "en": [
-    [
-      "Optimize the text",
-      "Optimize the text:\n"
-    ]
-  ]
-}
+[
+  {
+    "title": "Text verbessern",
+    "content": "Verbessere den folgenden Text grammatikalisch und stilistisch:\n",
+    "desc": "Grammatik-Check"
+  }
+]
