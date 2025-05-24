@@ -2,6 +2,11 @@
   {
     "title": "Text verbessern",
     "content": "Verbessere den folgenden Text grammatikalisch und stilistisch:\n",
-    "desc": "Grammatik-Check"
+    "desc": "Grammatik- und Stil-Check"
+  },
+  {
+    "title": "Optimize the text",
+    "content": "Optimize the text:\n",
+    "desc": "English text optimization"
   }
 ]
