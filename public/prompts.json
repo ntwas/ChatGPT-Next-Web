@@ -1,16 +1,28 @@
 {
+  "cn": [
+    [
+      " ",
+      " "
+    ]
+  ],
+  "tw": [
+    [
+      " ",
+      " "
+    ]
+  ],
   "en": [
     [
       "Optimiere den Text",
       "Optimiere den Text und behalte die Struktur und Inhalt. Überprüfe nur die Rechtschreibung und Satzstellung:\n"
     ],
+       [
+      "Übersetzte den Text ins technische Englisch",
+      "Optimiere den Text und behalte die Struktur und Inhalt. Überprüfe nur die Rechtschreibung und Satzstellung:\n"
+    ],
     [
       "Optimize the text",
       "Optimize the text:\n"
-    ],
-    [
-      "Summarize",
-      "Summarize the following text in 3 sentences:\n"
     ]
-  ],
+  ]
 }
