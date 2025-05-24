@@ -1,21 +1,11 @@
 {
-  "cn": [
+  "de": [
     [
-      " ",
-      " "
-    ]
-  ],
-  "tw": [
-    [
-      " ",
-      " "
+      "Text verbessern",
+      "Verbessere den folgenden Text grammatikalisch und stilistisch:\n"
     ]
   ],
   "en": [
-    [
-      "Optimiere den Text",
-      "Optimiere den Text und behalte die Struktur und Inhalt. Überprüfe nur die Rechtschreibung und Satzstellung:\n"
-    ],
     [
       "Optimize the text",
       "Optimize the text:\n"
