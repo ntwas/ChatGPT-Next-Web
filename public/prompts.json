@@ -1,12 +1,24 @@
-[
-  {
-    "title": "Text verbessern",
-    "content": "Verbessere den folgenden Text grammatikalisch und stilistisch:\n",
-    "desc": "Grammatik- und Stil-Check"
-  },
-  {
-    "title": "Optimize the text",
-    "content": "Optimize the text:\n",
-    "desc": "English text optimization"
-  }
-]
+{
+  "cn": [
+    [
+      " ",
+      " "
+    ]
+  ],
+  "tw": [
+    [
+      " ",
+      " "
+    ]
+  ],
+  "en": [
+    [
+      "Optimiere den Text",
+      "Optimiere den Text und behalte die Struktur und Inhalt. Überprüfe nur die Rechtschreibung und Satzstellung:\n"
+    ],
+    [
+      "Optimize the text",
+      "Optimize the text:\n"
+    ]
+  ]
+}
